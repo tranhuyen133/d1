@@ -1,0 +1,1 @@
+document.write('Quyết tâm học lâp trình JavaScript');
